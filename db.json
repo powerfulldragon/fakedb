@@ -8,13 +8,15 @@
   "profile": {
     "name": "typicode"
   },
-  "duty": {
-    "2025": {
-      "01": {
-       "01": true,
-       "02": false
-      }
+  "duty": [
+    {
+    "id": "20250101",
+    "vaule": false
+    },
+    {
+    "id": "20250102",
+    "vaule": true
     }
-  }
+  ]
 }
 
