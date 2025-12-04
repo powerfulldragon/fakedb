@@ -7,6 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "duty": {
+    "2025": {
+      "01": {
+       "01": true,
+       "02": false
+      }
+    }
   }
 }
 

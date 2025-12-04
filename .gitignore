@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore the 'node_modules' directory
+node_modules/
+
+# Ignore a specific file
+config.ini
+
+# Ignore everything in the 'build' directory
+build/
+
+# Ignore all .o files in the current directory only
+/*.o
