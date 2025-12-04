@@ -11,15 +11,18 @@
   "duty": [
     {
     "id": "20250101",
-    "vaule": [ true ]
+    "vaule": [
+    ]
     },
     {
     "id": "20250102",
-    "vaule": [ true ]
+    "vaule": [
+      ]
     },
     {
     "id": "20250199",
-    "vaule": [ true ]
+    "vaule": [
+      ]
     }
   ]
 }
